@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode 756 hello
+chmode 753 hello
