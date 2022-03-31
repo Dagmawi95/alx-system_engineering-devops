@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode 753 hello
+-rwxr-x-wx hello
